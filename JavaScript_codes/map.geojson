@@ -1,0 +1,1 @@
+eqfeed_callback({"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#1a28e3","marker-size":"medium","marker-symbol":"","Name":"Yellow Leux","Substance":"TFMPP","Location":"San Diego, CA","Tested Date":"Dec 13 2013"},"geometry":{"type":"Point","coordinates":[-117.257,32.715]}}]});
